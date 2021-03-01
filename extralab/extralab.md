@@ -346,4 +346,4 @@ It also shows a plot of the function, using Matplotlib in the same way as Lab3:
 
 You can use this function to run your own tests as you proceed. 
 It will even work if you have only done Part 1, but printing will then use the predefined defaults, which don't look quite as nice.
-
+ 
